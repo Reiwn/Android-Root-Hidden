@@ -6,8 +6,8 @@ https://github.com/Dr-TSNG/ZygiskNext
 Shamiko
 https://github.com/LSPosed/LSPosed.github.io/releases
 
-Lsposed 1.9.3
-https://github.com/mywalkb/LSPosed_mod
+Lsposed 1.10.1
+https://github.com/JingMatrix/LSPosed
 
 TrickyStore
 https://github.com/5ec1cff/TrickyStore
