@@ -1,7 +1,7 @@
 Magisk Modules:
 
 Zygisk Next
-https://github.com/Dr-TSNG/ZygiskNext
+https://github.com/Dr-TSNG/ZygiskNext/tree/master
 
 Shamiko
 https://github.com/LSPosed/LSPosed.github.io/releases
